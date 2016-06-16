@@ -1,0 +1,19 @@
+body {
+  background-color: grey;
+}
+
+.block {
+  border: 4px solid;
+  width: 100px;
+  height: 100px;
+  font-size: 40px;
+}
+
+#game {
+  margin: 0px auto;
+  background-color: red;
+}
+
+.columns {
+  border: solid 4px;
+}
