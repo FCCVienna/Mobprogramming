@@ -5,7 +5,7 @@ The list is divided into two sections, beginner and intermediate. Depending on t
 
 Please contribute with your own ideas via pull request, or simply raise an issue with your ideas listed.
 
-##beginner
+##Beginner
 * Create a one-page website using bootstrap
 
 ##Intermediate
