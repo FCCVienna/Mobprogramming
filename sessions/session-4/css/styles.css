@@ -1,0 +1,14 @@
+#color0, #color1, #color2 {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin-right: 20px;
+  border: 1px solid black;
+  margin-top: 25px;
+  cursor: pointer;
+
+}
+
+body {
+  text-align: center;
+}
