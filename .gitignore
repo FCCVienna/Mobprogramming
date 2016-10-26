@@ -1,0 +1,8 @@
+# gitignore file for FCC mob programming
+
+# Node
+node_modules
+.npm
+*.log
+logs
+npm-debug.log*
